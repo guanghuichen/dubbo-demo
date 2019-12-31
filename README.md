@@ -1,6 +1,6 @@
 # dubbo-demo
 
-**本项目是springboot整合dubbo-Zookeper的demo项目**
+**本项目是springboot整合dubbo-Zookeper的demo项目,仿照GitHub上另外一个项目自己写出来的，留作笔记**
 
 1：使用Zookeper作为注册中心，
 
